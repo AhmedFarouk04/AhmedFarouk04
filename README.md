@@ -10,13 +10,13 @@
 
 ---
 
-##  About Me
+## 🤖 About Me
 
 * I'm an AI Engineer and Backend Developer with experience in **.NET (C#)** and **Python**.
 * I build scalable APIs, design ML/DL models, and deploy intelligent applications to production.
 * I enjoy turning data into value — from prototypes to production-ready systems.
 
-##  What I Do
+## 🚀 What I Do
 
 * Design and build backend systems using **.NET (C#)**, **Node.js**, RESTful APIs, and microservices.
 * Train and deploy ML/DL models using **PyTorch**, **TensorFlow**, and scikit-learn.
@@ -37,8 +37,6 @@
 
 
 ## 📈 GitHub Stats
-
-(Replace `YOUR_GITHUB_USERNAME` with your username to enable images.)
 
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedFarouk04\&show_icons=true\&theme=default)
 
