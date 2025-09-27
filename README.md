@@ -17,7 +17,7 @@
 * I enjoy turning data into value — from prototypes to production-ready systems.
 
 ##  What I Do
-0
+
 * Design and build backend systems using **.NET (C#)**, **Node.js**, RESTful APIs, and microservices.
 * Train and deploy ML/DL models using **PyTorch**, **TensorFlow**, and scikit-learn.
 * Work with databases:  **MySQL**and **MongoDB**.
@@ -40,9 +40,9 @@
 
 (Replace `YOUR_GITHUB_USERNAME` with your username to enable images.)
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=default)
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedFarouk04\&show_icons=true\&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedFarouk04\&layout=compact\&theme=default)
 
 ---
 
