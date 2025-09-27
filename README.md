@@ -50,10 +50,3 @@
 Feel free to explore my repositories, open issues, or reach out via LinkedIn / Email for collaboration opportunities.
 
 ---
-
-
-
-
-
-
-<!-- End of README draft -->
