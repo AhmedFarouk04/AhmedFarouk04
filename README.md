@@ -44,13 +44,6 @@
 
 ---
 
-## 🐍 Contribution Snake (fun)
-
-To enable the snake gif you can use the "github-readme-snake" action or a generated `snake.svg`. Add this img below after setup:
-
-`![snake gif](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/master/snake.svg)`
-
----
 
 ## 🤝 Let's Collaborate
 
