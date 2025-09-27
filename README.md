@@ -60,30 +60,9 @@ Feel free to explore my repositories, open issues, or reach out via LinkedIn / E
 
 ---
 
-## 📝 How we can build this together (step-by-step checklist)
 
-Pick one item (or I can pick a default) and I'll edit it live in this draft:
 
-* [ ] 1) Heading & short intro (hero line)
-* [ ] 2) About Me (one paragraph)
-* [ ] 3) "What I Do" (bullet skills & responsibilities)
-* [ ] 4) Languages & Tools (short badges or icons)
-* [ ] 5) Projects (fill repo names & short descriptions)
-* [ ] 6) GitHub Stats & snake setup (insert your username)
-* [ ] 7) Social links (LinkedIn, Kaggle, Email — add your exact links)
-* [ ] 8) Currently learning / goals
-* [ ] 9) Final polishing (grammar, emojis, theme: dark/light)
 
----
 
-*If you prefer the README in Arabic or bilingual (Arabic + English), tell me and I will convert/edit sections.*
-
----
-
-*How to use this draft:*
-
-1. Replace placeholders (YOUR_GITHUB_USERNAME, YOUR_LINKEDIN, YOU_EMAIL, project names).
-2. Create a new repo with the exact name of your GitHub username and add this file as `README.md`.
-3. Commit and refresh your profile page.
 
 <!-- End of README draft -->
