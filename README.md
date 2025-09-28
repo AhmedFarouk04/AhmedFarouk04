@@ -58,7 +58,7 @@
 
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedFarouk04&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedFarouk04&layout=compact&theme=radical&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedFarouk04&layout=compact&theme=radical)
 
 
 </div>
