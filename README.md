@@ -1,11 +1,11 @@
 
 
-# <h1 align="center">Hi 👋, I'm Ahmed Farouk</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Farouk</h1>
 
+<h3 align="center">Backend Developer (.NET) | AI Engineer</h3>
 
-**Backend Developer (.NET) | AI Engineer**
+> Passionate about solving real-world problems with Artificial Intelligence and building robust backend systems.
 
->  Passionate about solving real-world problems with Artificial Intelligence and building robust backend systems.
 
 
 ---
