@@ -20,7 +20,7 @@
 
 * Design and build backend systems using **.NET (C#)**, **Node.js**, RESTful APIs, and microservices.
 * Train and deploy ML/DL models using **PyTorch**, **TensorFlow**, and scikit-learn.
-* Work with databases:  **MySQL**and **MongoDB**.
+* Work with databases:  **MySQL** and **MongoDB**.
 * Containerization and deployment: **Docker** and basic MLOps.
 
 ## 🛠️ Languages & Tools  
@@ -58,7 +58,8 @@
 
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedFarouk04&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedFarouk04&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedFarouk04&layout=compact&theme=radical&langs_count=8)
+
 
 </div>
 
