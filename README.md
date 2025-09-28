@@ -38,9 +38,13 @@
 
 ## 📈 GitHub Stats
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedFarouk04\&show_icons=true\&theme=default)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedFarouk04\&layout=compact\&theme=default)
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedFarouk04&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedFarouk04&layout=compact&theme=radical)
+
+</div>
 
 ---
 
