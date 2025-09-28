@@ -1,6 +1,7 @@
 
 
-#                                      Hi 👋, I'm Ahmed Farouk
+# <h1 align="center">Hi 👋, I'm Ahmed Farouk</h1>
+
 
 **Backend Developer (.NET) | AI Engineer**
 
