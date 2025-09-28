@@ -7,7 +7,6 @@
 
 >  Passionate about solving real-world problems with Artificial Intelligence and building robust backend systems.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ahmed-farouk-9682932b6/)  [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-100000?logo=kaggle)](https://kaggle.com/ahmedfarouk12)  [![Mail](https://img.shields.io/badge/Email-af7974943@gmail.com-red)](mailto:af7974943@gmail.com)
 
 ---
 
